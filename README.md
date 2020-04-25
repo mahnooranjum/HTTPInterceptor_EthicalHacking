@@ -16,6 +16,7 @@ Download the repository. Change the location in intercepthttp.py and run setup.p
 | output.png  | output of the program | 
 | setup.py  | setup iptables | 
 | venv  | python environment | 
+| intercepthttps.py  | added HTTPS bypass | 
 
 ## Output
 ![program output](output.png)
